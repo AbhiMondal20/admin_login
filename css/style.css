@@ -83,7 +83,7 @@ input[type="submit"] {
     padding: 4%;
     font-family: 'Open Sans', sans-serif;
     font-size: 100%;
-    color: #fff;
+    color: rgb(0, 0, 0);
     cursor: pointer;
     transition: background .3s;
     -webkit-transition: background .3s;
